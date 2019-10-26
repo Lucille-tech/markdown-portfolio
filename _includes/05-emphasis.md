@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+*Awesome attributes:*
+
+_JavaScript_
+
+_PHP_
+
+_Python_
+
+**:computer:**
+__Hello, World!__
+
+_ Hello**:smile:**World _
